@@ -42,7 +42,7 @@ class Tictactoe extends Game
      *
      * @var string
      */
-    protected static $description = 'Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid.';
+    protected static $description = 'Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. In Hindi Version :- टिक-टैक-टो दो खिलाड़ियों के लिए एक खेल है। X और O, जो 3×3 ग्रिड में रिक्त स्थान को बारी-बारी से चिह्नित करते हैं।';
 
     /**
      * Game thumbnail image
@@ -152,7 +152,7 @@ class Tictactoe extends Game
         if (!empty($isOver) && in_array($isOver, ['X', 'O'])) {
             $gameOutput = Emoji::trophy() . ' <b>' . __("{PLAYER} won!", ['{PLAYER}' => '</b>' . $this->getUserMention($data['settings'][$isOver]) . '<b>']) . '</b>';
         } elseif ($isOver == 'T') {
-            $gameOutput = Emoji::chequeredFlag() . ' <b>' . __("Game ended with a draw!") . '</b>';
+            $gameOutput = Emoji::chequeredFlag() . ' <b>' . __("Game ended with a draw!❤️") . '</b>';
         }
 
         if (!empty($isOver) && in_array($isOver, ['X', 'O', 'T'])) {
