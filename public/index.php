@@ -2,7 +2,7 @@
 /**
  * Inline Games - Telegram Bot (@inlinegamesbot)
  *
- * (c) 2016-2022 Jack'lul <jacklulcat@gmail.com>
+ * (c) 2022-2024 Black Mamba <www.sukhkher125@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
