@@ -28,5 +28,5 @@ if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] === 'POST') 
     $app = new BotCore();
     $app->run();
 } else {
-    header("Location: https://github.com/jacklul/inlinegamesbot");    // Redirect non-POST requests to Github repository
+    header("Location: https://github.com/FantasticSukhi/inlinegamesbot");    // Redirect non-POST requests to Github repository
 }
