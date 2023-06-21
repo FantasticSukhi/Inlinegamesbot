@@ -1,8 +1,8 @@
-# Inline Games [![License](https://img.shields.io/github/license/jacklul/inlinegamesbot.svg)](https://github.com/jacklul/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40inlinegamesbot-blue.svg)](https://telegram.me/inlinegamesbot)
+# Inline Games [![License](https://img.shields.io/github/license/FantasticSukhi/inlinegamesbot.svg)](https://github.com/FANTASTICSUKHI/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40MAMBAGAMES-blue.svg)](https://t.me/MAMBAGAMES_GBOT)
 
 A Telegram bot that provides real-time multiplayer games that can be played in any chat.
 
-You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me/inlinegamesbot).
+You can see the bot in action by messaging [MAMBA GAMES](https://t.me/MAMBAGAMES_GBOT).
 
 Currently hosted on [Fly.io](https://fly.io/) platform.
 
@@ -25,7 +25,7 @@ Currently hosted on [Fly.io](https://fly.io/) platform.
   <summary>Instructions</summary>
 
 Use this button to begin deployment:  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jacklul/inlinegamesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FANTASTICSUKHI/inlinegamesbot)
 
 Assuming everything was entered correctly your bot should be instantly working - if it's not you should try running `php bin/console post-install` inside the app.
 
